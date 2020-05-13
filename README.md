@@ -1,8 +1,12 @@
 # Broutonlab face recognition with medical masks
-identification systems which is we use for unlocking our devices have struggled with medical masks appearing on human faces.
+
 
 ## Colab Demo
 The whole pipeline code with detailed description provided in google [colab notebook](https://colab.research.google.com/gist/poltavski/23f242d5e50de9ddd1ade0d7baf8fd83/face_recognition_with_masks.ipynb).
+
+## Struggle
+Identification systems which is we use for unlocking our devices have struggled with medical masks appearing on human faces.
+
 
 ## Solution
 We will show and build system with the most modern state-of-the-art methods  possible to solve the task of face recognition with medical masks. 
@@ -30,3 +34,6 @@ Proposed solution also handles the situation with the face rotation, as medical 
 Process of training a DCNN for face recognition supervised by the ArcFace loss
 
 ![ArcFace](https://cdn-images-1.medium.com/max/2560/1*T3wkuUKIqMunwfOoi5_kGg.png)
+
+## Results
+We were able to achieve * percents accuracy with our pipeline on test dataset. The ability to show impressive results for such limited training time proves that pipeline is able to solve face recognition with medical masks task.
