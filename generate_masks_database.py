@@ -1,5 +1,5 @@
 from argparse import ArgumentParser
-from masked_face_sdk.utils import generate_masks_base
+from masked_face_sdk.mask_generation_utils import generate_masks_base
 import face_alignment
 import json
 

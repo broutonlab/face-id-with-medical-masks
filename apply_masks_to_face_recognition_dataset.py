@@ -1,5 +1,5 @@
 from argparse import ArgumentParser
-from masked_face_sdk.utils import end2end_mask_generation
+from masked_face_sdk.mask_generation_utils import end2end_mask_generation
 from masked_face_sdk.crop_utils import create_square_crop_by_detection
 import face_alignment
 import json
