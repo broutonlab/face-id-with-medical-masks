@@ -1,9 +1,13 @@
 # Broutonlab face recognition with medical masks
+This repository contains the source code for the [**article**](https://medium.com/@artinte7/face-recognition-with-medical-masks-1b4830012a85) on Face recognition with medical masks by [Alexey Kovalenko](https://github.com/AlexeySrus) and [Artem Poltavskiy](https://github.com/poltavski)
 
+## Pipeline with training face recognition
+The whole pipeline code for training with detailed description provided in google [colab notebook](https://colab.research.google.com/gist/poltavski/23f242d5e50de9ddd1ade0d7baf8fd83/face_recognition_with_masks.ipynb).
 
-## Colab Demo
-The whole pipeline code with detailed description provided in google [colab notebook](https://colab.research.google.com/gist/poltavski/23f242d5e50de9ddd1ade0d7baf8fd83/face_recognition_with_masks.ipynb).
+### Test medical masks augmentations
+You can also test masked faces pipeline from this [colab notebook](https://gist.github.com/poltavski/4b7ce495c18799b3199eb8608f5acf9e)
 
+# Article abstract
 ## Struggle
 Identification systems which is we use for unlocking our devices have struggled with medical masks appearing on human faces.
 
