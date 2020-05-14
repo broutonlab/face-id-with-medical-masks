@@ -1,5 +1,5 @@
 # Broutonlab face recognition with medical masks
-This repository contains the source code for the [**article**](https://broutonlab.com) on Face recognition with medical masks by [Alexey Kovalenko](https://github.com/AlexeySrus) and [Artem Poltavskiy](https://github.com/poltavski)
+This repository contains the source code for the [**article**](https://broutonlab.com/blog/face-recognition-with-medical-masks) on Face recognition with medical masks by [Alexey Kovalenko](https://github.com/AlexeySrus) and [Artem Poltavskiy](https://github.com/poltavski)
 
 ## Pipeline with training face recognition
 The whole pipeline code for training with detailed description provided in google [colab notebook](https://colab.research.google.com/gist/poltavski/23f242d5e50de9ddd1ade0d7baf8fd83/face_recognition_with_masks.ipynb).
