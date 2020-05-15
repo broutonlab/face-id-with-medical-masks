@@ -40,4 +40,6 @@ Process of training a DCNN for face recognition supervised by the ArcFace loss
 ![ArcFace](https://cdn-images-1.medium.com/max/2560/1*T3wkuUKIqMunwfOoi5_kGg.png)
 
 ## Results
-We were able to achieve * percents accuracy with our pipeline on test dataset. The ability to show impressive results for such limited training time proves that pipeline is able to solve face recognition with medical masks task.
+We were able to achieve 58 percents accuracy with our pipeline on test dataset. The ability to show impressive results for such limited training time proves that pipeline is able to solve face recognition with medical masks task.
+
+![Results](https://cdn-images-1.medium.com/max/1200/1*f7aMUHEvVB9WGIIyf8NtXQ.png)
